@@ -42,13 +42,9 @@ public class CompoundInvestment {
     	investment[year][INTEREST] = (rate / 100) * investment[year][INITIAL];
     	
       // TODO: Calculate the value of the third column (balance)
-    	investment[year][BALANCE] = investment[year-1][BALANCE] + investment[year][INITIAL] ;
+    	investment[year][BALANCE] = investment[year-1][BALANCE] + investment[year][INITIAL];
     	
-    }
-
-    // TODO: Calculate the overall interest
-    	
-    
+    }  
     // Output the result
     Console.print("\nYear\tInitial\t\tInterest\tBalance");
 
