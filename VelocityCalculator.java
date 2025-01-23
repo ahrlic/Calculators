@@ -9,7 +9,6 @@ import simpleIO.Console;
  * 
  * @author Ariana Hrlic 
  * Date: March 16 2023 
- * Course: ISC3U 
  * VelocityCalculator.java
  * VelocityCalculator
  */
