@@ -1,7 +1,3 @@
-/**
- * 
- */
-package activity2;
 
 import simpleIO.Console;
 
