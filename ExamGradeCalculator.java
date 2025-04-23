@@ -1,6 +1,4 @@
 
-package activity5;
-
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Node;
